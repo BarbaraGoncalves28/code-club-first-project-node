@@ -1,0 +1,12 @@
+JSON => JAVASCRIPT OBJECT NOTATION
+
+[
+    {
+        "name": "Rodolfo",
+        "age":  "28"
+    },
+    {
+        "name": "Bárbara",
+        "age": "23"
+    }
+]
